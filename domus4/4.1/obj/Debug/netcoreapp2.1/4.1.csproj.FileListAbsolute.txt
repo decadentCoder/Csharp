@@ -1,0 +1,10 @@
+E:\Ed\C#\Basic\Drta\4\domus4\4.1\bin\Debug\netcoreapp2.1\4.1.deps.json
+E:\Ed\C#\Basic\Drta\4\domus4\4.1\bin\Debug\netcoreapp2.1\4.1.runtimeconfig.json
+E:\Ed\C#\Basic\Drta\4\domus4\4.1\bin\Debug\netcoreapp2.1\4.1.runtimeconfig.dev.json
+E:\Ed\C#\Basic\Drta\4\domus4\4.1\bin\Debug\netcoreapp2.1\4.1.dll
+E:\Ed\C#\Basic\Drta\4\domus4\4.1\bin\Debug\netcoreapp2.1\4.1.pdb
+E:\Ed\C#\Basic\Drta\4\domus4\4.1\obj\Debug\netcoreapp2.1\4.1.csprojAssemblyReference.cache
+E:\Ed\C#\Basic\Drta\4\domus4\4.1\obj\Debug\netcoreapp2.1\4.1.AssemblyInfoInputs.cache
+E:\Ed\C#\Basic\Drta\4\domus4\4.1\obj\Debug\netcoreapp2.1\4.1.AssemblyInfo.cs
+E:\Ed\C#\Basic\Drta\4\domus4\4.1\obj\Debug\netcoreapp2.1\4.1.dll
+E:\Ed\C#\Basic\Drta\4\domus4\4.1\obj\Debug\netcoreapp2.1\4.1.pdb
