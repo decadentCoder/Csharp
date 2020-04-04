@@ -1,0 +1,10 @@
+E:\Ed\C#\Basic\Drta\5\domus5\dzukche_i.e._dog\bin\Debug\netcoreapp2.1\dzukche_i.e._doggy.deps.json
+E:\Ed\C#\Basic\Drta\5\domus5\dzukche_i.e._dog\bin\Debug\netcoreapp2.1\dzukche_i.e._doggy.runtimeconfig.json
+E:\Ed\C#\Basic\Drta\5\domus5\dzukche_i.e._dog\bin\Debug\netcoreapp2.1\dzukche_i.e._doggy.runtimeconfig.dev.json
+E:\Ed\C#\Basic\Drta\5\domus5\dzukche_i.e._dog\bin\Debug\netcoreapp2.1\dzukche_i.e._doggy.dll
+E:\Ed\C#\Basic\Drta\5\domus5\dzukche_i.e._dog\bin\Debug\netcoreapp2.1\dzukche_i.e._doggy.pdb
+E:\Ed\C#\Basic\Drta\5\domus5\dzukche_i.e._dog\obj\Debug\netcoreapp2.1\dzukche_i.e._doggy.csprojAssemblyReference.cache
+E:\Ed\C#\Basic\Drta\5\domus5\dzukche_i.e._dog\obj\Debug\netcoreapp2.1\dzukche_i.e._doggy.AssemblyInfoInputs.cache
+E:\Ed\C#\Basic\Drta\5\domus5\dzukche_i.e._dog\obj\Debug\netcoreapp2.1\dzukche_i.e._doggy.AssemblyInfo.cs
+E:\Ed\C#\Basic\Drta\5\domus5\dzukche_i.e._dog\obj\Debug\netcoreapp2.1\dzukche_i.e._doggy.dll
+E:\Ed\C#\Basic\Drta\5\domus5\dzukche_i.e._dog\obj\Debug\netcoreapp2.1\dzukche_i.e._doggy.pdb
